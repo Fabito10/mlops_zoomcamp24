@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/676904de309e4230bced09abd2670273/artifacts
+end_time: 1717504618914
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: 676904de309e4230bced09abd2670273
+run_name: skillful-perch-604
+run_uuid: 676904de309e4230bced09abd2670273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717504618900
+status: 3
+tags: []
+user_id: ubuntu

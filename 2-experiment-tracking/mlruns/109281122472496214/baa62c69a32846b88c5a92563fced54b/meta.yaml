@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/baa62c69a32846b88c5a92563fced54b/artifacts
+end_time: 1717521629856
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: baa62c69a32846b88c5a92563fced54b
+run_name: skittish-shad-746
+run_uuid: baa62c69a32846b88c5a92563fced54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717521622411
+status: 3
+tags: []
+user_id: ubuntu

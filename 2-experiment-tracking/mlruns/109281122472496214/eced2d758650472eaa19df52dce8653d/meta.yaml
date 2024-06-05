@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/eced2d758650472eaa19df52dce8653d/artifacts
+end_time: 1717522535876
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: eced2d758650472eaa19df52dce8653d
+run_name: judicious-conch-667
+run_uuid: eced2d758650472eaa19df52dce8653d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717522383816
+status: 4
+tags: []
+user_id: ubuntu

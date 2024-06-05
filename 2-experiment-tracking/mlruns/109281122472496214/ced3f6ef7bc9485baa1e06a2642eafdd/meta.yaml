@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/ced3f6ef7bc9485baa1e06a2642eafdd/artifacts
+end_time: 1717503653483
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: ced3f6ef7bc9485baa1e06a2642eafdd
+run_name: auspicious-steed-863
+run_uuid: ced3f6ef7bc9485baa1e06a2642eafdd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717503505273
+status: 3
+tags: []
+user_id: ubuntu

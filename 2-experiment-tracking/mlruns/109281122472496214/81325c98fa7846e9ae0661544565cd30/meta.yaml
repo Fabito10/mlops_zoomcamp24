@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/81325c98fa7846e9ae0661544565cd30/artifacts
+end_time: 1717522034848
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: 81325c98fa7846e9ae0661544565cd30
+run_name: glamorous-pug-943
+run_uuid: 81325c98fa7846e9ae0661544565cd30
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717521871602
+status: 3
+tags: []
+user_id: ubuntu

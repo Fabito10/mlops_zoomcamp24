@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/1b669d7723ab42cbbefff5d497bdd31a/artifacts
+end_time: 1717504650031
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: 1b669d7723ab42cbbefff5d497bdd31a
+run_name: wistful-kite-899
+run_uuid: 1b669d7723ab42cbbefff5d497bdd31a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717504650020
+status: 4
+tags: []
+user_id: ubuntu

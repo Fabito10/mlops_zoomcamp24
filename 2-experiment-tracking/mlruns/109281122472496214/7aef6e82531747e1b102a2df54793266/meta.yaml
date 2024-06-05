@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/7aef6e82531747e1b102a2df54793266/artifacts
+end_time: 1717521725098
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: 7aef6e82531747e1b102a2df54793266
+run_name: delicate-cub-347
+run_uuid: 7aef6e82531747e1b102a2df54793266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717521716311
+status: 4
+tags: []
+user_id: ubuntu

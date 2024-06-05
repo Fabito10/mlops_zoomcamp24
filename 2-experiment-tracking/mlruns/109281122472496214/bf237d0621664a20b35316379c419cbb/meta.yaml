@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/bf237d0621664a20b35316379c419cbb/artifacts
+end_time: 1717498299604
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: bf237d0621664a20b35316379c419cbb
+run_name: overjoyed-auk-240
+run_uuid: bf237d0621664a20b35316379c419cbb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717498214693
+status: 3
+tags: []
+user_id: ubuntu

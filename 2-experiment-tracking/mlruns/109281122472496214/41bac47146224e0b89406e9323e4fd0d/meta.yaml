@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/109281122472496214/41bac47146224e0b89406e9323e4fd0d/artifacts
+end_time: 1717498214682
+entry_point_name: ''
+experiment_id: '109281122472496214'
+lifecycle_stage: active
+run_id: 41bac47146224e0b89406e9323e4fd0d
+run_name: glamorous-sloth-19
+run_uuid: 41bac47146224e0b89406e9323e4fd0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717497974502
+status: 3
+tags: []
+user_id: ubuntu
